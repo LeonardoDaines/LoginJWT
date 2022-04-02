@@ -1,8 +1,8 @@
-<h1>Descrição</h1>
+<h3>Descrição</h3>
 
 Este é um registro e login de usuario utilizando JWT como sistema de segurança
 
-Como usar
+<h3>Como usar</h3>
 
 Para criar este projeto utilizei o vsCode, MongoDB atlas e Insomnia um API Client que facilita criar, compartilhar, testar e documentar API,
 qualquer outra semelhante tera o mesmo resultado, 
