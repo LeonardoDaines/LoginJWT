@@ -17,7 +17,9 @@ Email minimo 3 caracteres maximo 50 caracteres
 password minimo 6 caracteres maximo 100 caracteres
 
 <h4>Registrando usuario exemplo</h4>
+
 ![register](https://user-images.githubusercontent.com/71185870/161403258-40191814-5531-4e92-aee8-a5dbfe69074b.png)
 
 <h4>Login Exemplo</h4>
+
 ![login](https://user-images.githubusercontent.com/71185870/161403316-487a7c4b-4727-4149-9728-fb616b1c422c.png)
